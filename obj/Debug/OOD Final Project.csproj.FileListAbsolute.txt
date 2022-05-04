@@ -1,0 +1,12 @@
+C:\Users\jnugt\source\repos\OOD Final Project\bin\Debug\OOD Final Project.exe.config
+C:\Users\jnugt\source\repos\OOD Final Project\bin\Debug\OOD Final Project.exe
+C:\Users\jnugt\source\repos\OOD Final Project\bin\Debug\OOD Final Project.pdb
+C:\Users\jnugt\source\repos\OOD Final Project\obj\Debug\OOD Final Project.csproj.AssemblyReference.cache
+C:\Users\jnugt\source\repos\OOD Final Project\obj\Debug\OOD Final Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\jnugt\source\repos\OOD Final Project\obj\Debug\OOD_Final_Project.LandingForm.resources
+C:\Users\jnugt\source\repos\OOD Final Project\obj\Debug\OOD_Final_Project.Properties.Resources.resources
+C:\Users\jnugt\source\repos\OOD Final Project\obj\Debug\OOD Final Project.csproj.GenerateResource.cache
+C:\Users\jnugt\source\repos\OOD Final Project\obj\Debug\OOD Final Project.csproj.CoreCompileInputs.cache
+C:\Users\jnugt\source\repos\OOD Final Project\obj\Debug\OOD Final Project.exe
+C:\Users\jnugt\source\repos\OOD Final Project\obj\Debug\OOD Final Project.pdb
+C:\Users\jnugt\source\repos\OOD Final Project\obj\Debug\OOD_Final_Project.GameplayForm.resources
